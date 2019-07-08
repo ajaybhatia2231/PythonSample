@@ -9,5 +9,5 @@ def main():
 def hello():
   return "I am good  , Thank you !!! "
 
-if __name__ = "__main__":
+if __name__ == "__main__":
   app.run()         
